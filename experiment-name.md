@@ -1,0 +1,1 @@
+## Integration - Simpsons 1/3rd rule (Continous function)
